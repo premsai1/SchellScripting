@@ -1,0 +1,1 @@
+cat awkfile | awk '/ppp/'

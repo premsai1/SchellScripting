@@ -1,0 +1,2 @@
+cat awkfile | awk '/m/'
+

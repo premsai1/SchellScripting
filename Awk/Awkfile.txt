@@ -1,0 +1,11 @@
+
+name   marks   rollno  sex 
+prem    333     1       m
+sheetal  333    4       f
+sai       575    6      m
+sathya     444    5     f
+gnani     443     8     f
+nithin     777    54     m
+kumar     554      8    m
+panjala   754      5    f
+
